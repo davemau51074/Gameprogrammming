@@ -1,0 +1,9 @@
+﻿  Game.cpp
+e:\practical_04_sfmlopengltransformations\sfmlopengltransformations\sfmlopengl\game.cpp(63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\practical_04_sfmlopengltransformations\sfmlopengltransformations\sfmlopengl\game.cpp(64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+e:\practical_04_sfmlopengltransformations\sfmlopengltransformations\sfmlopengl\game.cpp(65): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  Compiling...
+  Main.cpp
+  Generating Code...
+  SFMLOpenGL.vcxproj -> E:\PRACTICAL_04_SFMLOpenGLTransformations\SFMLOpenGLTransformations\Debug\SFMLOpenGL.exe
